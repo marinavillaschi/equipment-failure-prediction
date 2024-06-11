@@ -14,6 +14,9 @@ I'll be answering the following questions, as well as drawing insights and expla
 
 5. Analyze variable importance.
 
+### Results
+
+You can see the results of this project presented [here](https://github.com/marinavillaschi/equipment-failure-prediction/blob/main/Equipment%20Failure%20Prediction%20-%20Marina%20Villaschi.pdf)
 
 ### Autor
 
